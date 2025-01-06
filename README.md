@@ -1,10 +1,3 @@
-# Data Scientist
-
-#### Technical Skills: Python, SQL, Mongo, API, AWS, Machine Learning, NLP, PowerBI
-
-## Education						       		
-- M.S., Physics	| UMBC, USA (_Aug 2024_ cont.)	        		
-- B.S., Electronics and Telecommunications | Mumbai, India (_May 2021_)
 # Anjali Jha - Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, Tableau, Power BI, Machine Learning
