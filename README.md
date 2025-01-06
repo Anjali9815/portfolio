@@ -66,7 +66,6 @@
 ## Portfolio
 
 - **[GitHub Portfolio](https://github.com/Anjali9815)**  
-- **[LinkedIN](https://www.linkedin.com/in/anjali-jha-069aa6184/)**  
 
 ---
 
